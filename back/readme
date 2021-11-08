@@ -44,3 +44,4 @@ ATTENTION modifier ds le dossier models user ajouter la ligne
 
         npm install jsonwebtoken
         npm install bcrypt
+        
